@@ -1,0 +1,7 @@
+c:\users\cveti\Source\Repos\MultidimansionalArrays\Задацха26\bin\Debug\Задацха26.exe.config
+c:\users\cveti\Source\Repos\MultidimansionalArrays\Задацха26\bin\Debug\Задацха26.exe
+c:\users\cveti\Source\Repos\MultidimansionalArrays\Задацха26\bin\Debug\Задацха26.pdb
+c:\users\cveti\Source\Repos\MultidimansionalArrays\Задацха26\obj\Debug\Zadacha26.csprojResolveAssemblyReference.cache
+c:\users\cveti\Source\Repos\MultidimansionalArrays\Задацха26\obj\Debug\Zadacha26.csproj.CoreCompileInputs.cache
+c:\users\cveti\Source\Repos\MultidimansionalArrays\Задацха26\obj\Debug\Задацха26.exe
+c:\users\cveti\Source\Repos\MultidimansionalArrays\Задацха26\obj\Debug\Задацха26.pdb

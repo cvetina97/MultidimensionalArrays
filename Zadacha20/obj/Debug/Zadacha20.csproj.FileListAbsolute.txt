@@ -1,0 +1,7 @@
+C:\Users\Cveti\Source\Repos\MultidimansionalArrays\Zadacha20\bin\Debug\Zadacha20.exe.config
+C:\Users\Cveti\Source\Repos\MultidimansionalArrays\Zadacha20\bin\Debug\Zadacha20.exe
+C:\Users\Cveti\Source\Repos\MultidimansionalArrays\Zadacha20\bin\Debug\Zadacha20.pdb
+C:\Users\Cveti\Source\Repos\MultidimansionalArrays\Zadacha20\obj\Debug\Zadacha20.csprojResolveAssemblyReference.cache
+C:\Users\Cveti\Source\Repos\MultidimansionalArrays\Zadacha20\obj\Debug\Zadacha20.csproj.CoreCompileInputs.cache
+C:\Users\Cveti\Source\Repos\MultidimansionalArrays\Zadacha20\obj\Debug\Zadacha20.exe
+C:\Users\Cveti\Source\Repos\MultidimansionalArrays\Zadacha20\obj\Debug\Zadacha20.pdb

@@ -1,0 +1,6 @@
+c:\users\cveti\Source\Repos\MultidimansionalArrays\Zadacha39\bin\Debug\Zadacha39.exe.config
+c:\users\cveti\Source\Repos\MultidimansionalArrays\Zadacha39\bin\Debug\Zadacha39.exe
+c:\users\cveti\Source\Repos\MultidimansionalArrays\Zadacha39\bin\Debug\Zadacha39.pdb
+c:\users\cveti\Source\Repos\MultidimansionalArrays\Zadacha39\obj\Debug\Zadacha39.csproj.CoreCompileInputs.cache
+c:\users\cveti\Source\Repos\MultidimansionalArrays\Zadacha39\obj\Debug\Zadacha39.exe
+c:\users\cveti\Source\Repos\MultidimansionalArrays\Zadacha39\obj\Debug\Zadacha39.pdb
